@@ -87,8 +87,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/MahdiAsadolahzade/MahdiAsadolahzade/output/snake.svg" alt="Snake animation" />
 
 ###
